@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height : 100vh;
+}
+
+.container{
+    width: 50vw;
+}
